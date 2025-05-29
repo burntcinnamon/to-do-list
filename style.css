@@ -4,3 +4,10 @@ body {
     background-color: #f55f5f;
     font-family: 'Roboto', sans-serif;
 }
+
+#listContainer {
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+}
