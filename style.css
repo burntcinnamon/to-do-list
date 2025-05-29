@@ -11,3 +11,16 @@ body {
     width: 400px;
     margin: 0 auto;
 }
+
+#addTaskBtn {
+    position: relative;
+    top: 330px;
+    margin: 5px;
+}
+
+#removeTaskBtn {
+    position: relative;
+    top: 330px;
+    left: 200px;
+    margin: 5px;
+}
